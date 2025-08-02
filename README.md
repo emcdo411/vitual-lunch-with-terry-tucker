@@ -6,14 +6,14 @@
 
 ## 📚 Table of Contents
 
-* [Overview](#overview)
-* [About the Simulation](#about-the-simulation)
-* [Who Is Terry Tucker?](#who-is-terry-tucker)
-* [Prompt Summary](#prompt-summary)
-* [Simulated Dialogue Highlights](#simulated-dialogue-highlights)
-* [How to Use This Repo](#how-to-use-this-repo)
-* [Shoutout + Book Purchase Link](#shoutout--book-purchase-link)
-* [License](#license)
+* [Overview](#-overview)
+* [About the Simulation](#-about-the-simulation)
+* [Who Is Terry Tucker?](#-who-is-terry-tucker)
+* [Prompt Summary](#-prompt-summary)
+* [Simulated Dialogue Highlights](#-simulated-dialogue-highlights)
+* [How to Use This Repo](#-how-to-use-this-repo)
+* [Shoutout + Book Purchase Link](#-shoutout--book-purchase-link)
+* [License](#-license)
 
 ---
 
@@ -123,4 +123,3 @@ Terry Tucker retains all rights to his likeness, teachings, and original works.
 > "Live uncommon. Lead with intention. Fail forward. And never forget — your story is not done yet."
 
 — Inspired by *Sustainable Excellence* by Terry Tucker
-
